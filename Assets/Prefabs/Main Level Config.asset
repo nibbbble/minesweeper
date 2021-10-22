@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0d3161c19eb579c48bde6aec0068a476, type: 3}
-  m_Name: Level Configuration
+  m_Name: Main Level Config
   m_EditorClassIdentifier: 
   gridSize: {x: 16, y: 8}
   mineCount: 20

@@ -10,7 +10,7 @@
     the tileObjectGrid is just for connecting a position on the mainGrid to a tile GameObject
 
     firstly, the tile GameObjects are instantiated
-        - tin order according to gridSize
+        - in order according to gridSize
         - the tileObjectGrid gets a reference to each tile
     this is for ensuring later on that the player won't click on a tile with a mine on their first go 
     
